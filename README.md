@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://desnecesauron.github.io](https://desnecesauron.github.io)
 
-- ⚡ Fun fact **The reason for my curiosity and love in this area is the happyness that games give me since I was a child.**
+- ⚡ Fun fact: **The reason for my curiosity and love in this area is the happyness that games give me since I was a child.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
