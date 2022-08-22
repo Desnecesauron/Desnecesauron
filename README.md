@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar Sampaio Gomes!</h1>
-<h3 align="center">A passionate Java trainee studying more about full-stack habilities (Js, PHP, PostgreSQL/MySQL and Docker)</h3>
+<h3 align="center">A passionate Java trainee studying more about full-stack habilities (Java, Js, PostgreSQL/MySQL and Docker)</h3>
 
-- 🌱 I’m currently learning **Docker, Angular and Js**
+- 🌱 I’m currently learning **Java and Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Desnecesauron](https://github.com/Desnecesauron)
 
