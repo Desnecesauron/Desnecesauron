@@ -21,8 +21,11 @@
 <h3 align="left">Some projects Running in Github Pages:</h3>
 <p align="left">
   <a href="https://desnecesauron.github.io/pokedex-angular-course/" target="blank">Angular Pokedex</a>
+  <br>
   <a href="https://desnecesauron.github.io/to-do-list-angular/" target="blank">Angular To-do List</a>
+  <br>
   <a href="https://desnecesauron.github.io/angular-dark-theme/" target="blank">Angular Dark Theme</a>
+  <br>
   <a href="https://desnecesauron.github.io/angular-auth-front/" target="blank">Angular Auth</a>
 </p>
 
