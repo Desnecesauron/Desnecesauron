@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cesar-sampaio-gomes-83198b19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cesar-sampaio-gomes-83198b19a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cesar-sampaio-gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cesar-sampaio-gomes" height="30" width="40" /></a>
 <a href="https://fb.com/cesar.sampaio.71271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cesar.sampaio.71271" height="30" width="40" /></a>
 <a href="https://instagram.com/cesinhaa_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cesinhaa_03" height="30" width="40" /></a>
 </p>
